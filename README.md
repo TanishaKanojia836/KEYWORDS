@@ -203,6 +203,12 @@ computer software whose source code is not published or shared with the public. 
 a software that allows a single physical computer to run multiple virtual machines (VMs).
 # Python
 a computer programming language often used to build websites and software, automate tasks, and analyze data.
+# Cryptocurrency
+any form of currency that exists digitally or virtually and uses cryptography to secure transactions.
+# LOKI
+LOKI stack is a Linux-OpenStack-Kubernetes Infrastructure, and represents Linux hosts with one of two infrastructures (or both) on top.
+# RAFT
+a generic way to distribute a state machine across a cluster of computing systems, ensuring that each node in the cluster agrees upon the same series of state transitions. It has a number of open-source reference implementations, with full-specification implementations in Go, C++, Java, and Scala.
 
 
 
