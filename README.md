@@ -172,7 +172,7 @@ a small piece of a larger message that's sent over the internet or other compute
 # Firewall
 a security system that protects a computer network from unauthorized access by monitoring and filtering incoming and outgoing traffic.
 # https
-Hypertext Transfer Protocol Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP). It uses encryption for secure communication over a computer network, and is widely used on the Internet.[1][2] In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, Secure Sockets Layer (SSL). 
+Hypertext Transfer Protocol Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP). It uses encryption for secure communication over a computer network, and is widely used on the Internet. In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, Secure Sockets Layer (SSL). 
 # Virtual Currency
 a type of unregulated digital currency. It is not issued or controlled by a central bank. Examples of virtual currencies include Bitcoin, Litecoin, and XRP. Digital currencies are stored in and transacted through designated software, applications, and networks in digital form.
 # ISP
