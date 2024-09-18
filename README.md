@@ -13,6 +13,8 @@ A computation is any type of arithmetic or non-arithmetic calculation that is we
 
 # RISC- V
 stands for Reduced Instruction Set Computing (RISC) and the “V” represents the fifth version of the RISC architecture. Unlike proprietary architectures such as ARM and x86, RISC-V is an open standard, allowing anyone to implement it without the need for licensing fees.
+# CISC
+A complex instruction set computer (CISC /ˈsɪsk/) is a computer architecture in which single instructions can execute several low-level operations (such as a load from memory, an arithmetic operation, and a memory store) or are capable of multi-step operations or addressing modes within single instructions.
 # ASIC
 computer chips that combine several different circuits all on one chip – it's a "system-on-a-chip" (SoC) design – allowing it to be custom programmed to combine several related functions that together carry out a specific overall task.
 # OPERATING SYSTEM 
