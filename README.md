@@ -206,7 +206,7 @@ a computer programming language often used to build websites and software, autom
 # Cryptocurrency
 any form of currency that exists digitally or virtually and uses cryptography to secure transactions.
 # LOKI
-LOKI stack is a Linux-OpenStack-Kubernetes Infrastructure, and represents Linux hosts with one of two infrastructures (or both) on top.
+LOKI stack is a Linux-OpenStack-Kubernetes Infrastructure, and represents Linux hosts with one of two infrastructures (or both) on top. It bridges the gap between traditional and cloud native workloads. It's a testatement to the collaborative power of Linux, Openstack and Kubernates.
 # RAFT
 a generic way to distribute a state machine across a cluster of computing systems, ensuring that each node in the cluster agrees upon the same series of state transitions. It has a number of open-source reference implementations, with full-specification implementations in Go, C++, Java, and Scala.
 
