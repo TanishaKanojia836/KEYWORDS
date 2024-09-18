@@ -143,7 +143,7 @@ Database Management System, which is a software tool that helps users create, re
 ![image](https://github.com/user-attachments/assets/1c53451a-fe0c-4192-8458-85497baee9f8)
 
 
-# Semi conductors
+# Semi conductors (FAB)
 lies between the conductor and insulator. It controls and manages the flow of electric current in electronic equipment and devices. As a result, it is a popular component of electronic chips made for computing components and a variety of electronic devices, including solid-state storage.
 # API
 API stands for Application Programming Interface, which is a set of rules and protocols that allow software applications to communicate with each other. 
