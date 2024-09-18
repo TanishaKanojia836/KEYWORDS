@@ -171,6 +171,8 @@ a set of rules that govern how data is transmitted and received in a network. Pr
 a small piece of a larger message that's sent over the internet or other computer networks. Packets are used to transmit data efficiently and reliably.
 # Firewall
 a security system that protects a computer network from unauthorized access by monitoring and filtering incoming and outgoing traffic.
+# https
+Hypertext Transfer Protocol Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP). It uses encryption for secure communication over a computer network, and is widely used on the Internet.[1][2] In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, Secure Sockets Layer (SSL). 
 # Virtual Currency
 a type of unregulated digital currency. It is not issued or controlled by a central bank. Examples of virtual currencies include Bitcoin, Litecoin, and XRP. Digital currencies are stored in and transacted through designated software, applications, and networks in digital form.
 # ISP
@@ -207,6 +209,8 @@ computer software whose source code is not published or shared with the public. 
 a software that allows a single physical computer to run multiple virtual machines (VMs).
 # Python
 a computer programming language often used to build websites and software, automate tasks, and analyze data.
+# Cryptography
+Cryptography is the practice of developing and using coded algorithms to protect and obscure transmitted information so that it may only be read by those with the permission and ability to decrypt it. 
 # Cryptocurrency
 any form of currency that exists digitally or virtually and uses cryptography to secure transactions.
 # LOKI
